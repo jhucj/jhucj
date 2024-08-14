@@ -1,7 +1,7 @@
-## Hi there 👋
+## bem vindo ao meu perfil,meu nome é jhulia👋
 
 <!--
-**jhucj/jhucj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jhucj/jhucj** is a ✨ _vapo_✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
